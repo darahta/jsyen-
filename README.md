@@ -1,3 +1,3 @@
 <h2>JS YENI</h2>
 
- <img src="jsgıf.mp4" alt="">
+ <img src="https://github.com/darahta/jsyen-/blob/main/giphy.gif" alt="">
